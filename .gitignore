@@ -6,3 +6,7 @@ node_modules/
 
 // LOCAL CONFIG FILE, NO ONE ELSE WILL EVER NEED
 .DS_STORE
+
+// Prevent logs from getting added
+// * is a wild card (anything that end with .log)
+*.log
