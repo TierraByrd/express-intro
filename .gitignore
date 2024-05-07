@@ -1,0 +1,8 @@
+//will ignore the following:
+
+//The directory that stores downloaded npm PACKAGES
+node_modules/
+
+
+// LOCAL CONFIG FILE, NO ONE ELSE WILL EVER NEED
+.DS_STORE
